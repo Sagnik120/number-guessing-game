@@ -27,11 +27,20 @@ A fun web-based Number Guessing Game built with **Flask**, where users can pick 
 
 ## 🖼️ Screenshots
 
-*(Optional: You can embed images from your `static/images` folder once deployed to show pages like home, game, leaderboard, etc.)*
-
 Example:
 
-![Home Page](static/images/home.jpg)
+
+### Home Page
+![Home](images/home.png)
+
+### Game Page
+![Game](images/game.png)
+
+### Result Page
+![Result](images/result.png)
+
+### Leaderboard
+![Leaderboard](images/leaderboard.png)
 
 ---
 
@@ -41,6 +50,9 @@ Example:
 - **Flask SQLAlchemy** (ORM)
 - **PostgreSQL** (Database)
 - **Bootstrap 5** (Frontend styling)
+- **HTML** (Frontend)
+- **CSS** (Frontend styling)
+- **JS** (Frontend styling)
 - **dotenv** (Environment variable management)
 
 ---
