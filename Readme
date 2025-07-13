@@ -26,8 +26,18 @@ A fun web-based Number Guessing Game built with **Flask**, where users can pick 
 ---
 
 ## 🖼️ Screenshots
+### Home Page
+![Home](images/home.png)
 
-*(Optional: You can embed images from your `static/images` folder once deployed to show pages like home, game, leaderboard, etc.)*
+### Game Play
+![Game Play](images/game.png)
+
+### Win Screen
+![Win](images/win.png)
+
+### Leaderboard
+![Leaderboard](images/leaderboard.png)
+
 
 Example:
 
