@@ -4,8 +4,9 @@ from config import Config
 import random
 from sqlalchemy import desc
 from datetime import datetime, timedelta
-from dotenv import load_dotenv
-load_dotenv()
+
+import os
+
 app = Flask(__name__)
 app.config.from_object(Config)
 
