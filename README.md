@@ -60,25 +60,22 @@ Example:
 ## 📂 Project Structure
 
 NUMBER_GUESSING_GAME/
-│
 ├── static/
-│ ├── css/
-│ │ └── styles.css
-│ ├── images/
-│ │ ├── home.jpg
-│ │ ├── game.jpg
-│ │ ├── result.jpg
-│ │ ├── leaderboard.jpg
-│ │ └── confetti.gif
-│ └── js/
-│
+│   ├── css/
+│   │   └── styles.css
+│   ├── images/
+│   │   ├── home.jpg
+│   │   ├── game.jpg
+│   │   ├── result.jpg
+│   │   ├── leaderboard.jpg
+│   │   └── confetti.gif
+│   └── js/
 ├── templates/
-│ ├── base.html
-│ ├── home.html
-│ ├── game.html
-│ ├── result.html
-│ └── leaderboard.html
-│
+│   ├── base.html
+│   ├── home.html
+│   ├── game.html
+│   ├── result.html
+│   └── leaderboard.html
 ├── app.py
 ├── config.py
 ├── models.py
@@ -87,11 +84,11 @@ NUMBER_GUESSING_GAME/
 └── .gitignore
 
 
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/number-guessing-game.git
 cd number-guessing-game
 
