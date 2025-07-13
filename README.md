@@ -37,7 +37,7 @@ Example:
 ![Game](images/game.png)
 
 ### Result Page
-![Result](images/result.png)
+![Result](images/win.png)
 
 ### Leaderboard
 ![Leaderboard](images/leaderboard.png)
